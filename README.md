@@ -1,2 +1,2 @@
 # multianalysis.io
-https://github.com/PurpleShan/multianalysis.io/ch1_611111104.html
+https://PurpleShan.github.io/multianalysis.io/ch1_611111104.html
